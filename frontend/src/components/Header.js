@@ -183,17 +183,7 @@ const Header = () => {
               {/* User Actions - Mobile */}
               {isAuthenticated ? (
                 <>
-                  <NavLink 
-                    to="/dashboard" 
-                    className={({ isActive }) => 
-                      isActive 
-                        ? "text-blue-600 font-medium py-2" 
-                        : "text-gray-600 hover:text-blue-600 py-2 transition-colors"
-                    }
-                    onClick={toggleMenu}
-                  >
-                    Dashboard
-                  </NavLink>
+                  
                   <button 
                     onClick={handleLogout}
                     className="text-gray-600 hover:text-blue-600 py-2 text-left"
