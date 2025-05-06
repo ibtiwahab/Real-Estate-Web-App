@@ -8,6 +8,8 @@ MongoDB Compass – GUI to manage your MongoDB data
 
 Git (optional, for cloning repos)
 
+Make Sure to sign-in in cloudinary and place the api keys in .env file of backend
+
 🚀 2. Start MongoDB
 
 🧱 3. Backend Setup (Node.js + Express)
