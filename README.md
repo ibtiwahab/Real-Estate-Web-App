@@ -1,4 +1,4 @@
-# Imarat 2.0 — Pakistan Real Estate Marketplace
+# Pakistan Real Estate Marketplace
 
 A full-stack MERN real estate platform for listing, browsing, and managing properties across Pakistan. Users can register, authenticate, post properties with images, filter listings, and interact with an AI chat assistant.
 
